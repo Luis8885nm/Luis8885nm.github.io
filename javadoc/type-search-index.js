@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"excepcionePropias","l":"LimiteDeposito"},{"p":"excepcionePropias","l":"LimiteRetiros"},{"p":"poop10","l":"POOP10"},{"p":"excepcionePropias","l":"SaldoInsuficienteExceptions"}];updateSearchResults();
